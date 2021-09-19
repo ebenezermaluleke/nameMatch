@@ -1,0 +1,16 @@
+C:\Users\Ebeneizer\Documents\Projects\C#\GoodAssessment\bin\Debug\net6.0\GoodAssessment.exe
+C:\Users\Ebeneizer\Documents\Projects\C#\GoodAssessment\bin\Debug\net6.0\GoodAssessment.deps.json
+C:\Users\Ebeneizer\Documents\Projects\C#\GoodAssessment\bin\Debug\net6.0\GoodAssessment.runtimeconfig.json
+C:\Users\Ebeneizer\Documents\Projects\C#\GoodAssessment\bin\Debug\net6.0\GoodAssessment.dll
+C:\Users\Ebeneizer\Documents\Projects\C#\GoodAssessment\bin\Debug\net6.0\ref\GoodAssessment.dll
+C:\Users\Ebeneizer\Documents\Projects\C#\GoodAssessment\bin\Debug\net6.0\GoodAssessment.pdb
+C:\Users\Ebeneizer\Documents\Projects\C#\GoodAssessment\obj\Debug\net6.0\GoodAssessment.csproj.AssemblyReference.cache
+C:\Users\Ebeneizer\Documents\Projects\C#\GoodAssessment\obj\Debug\net6.0\GoodAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebeneizer\Documents\Projects\C#\GoodAssessment\obj\Debug\net6.0\GoodAssessment.AssemblyInfoInputs.cache
+C:\Users\Ebeneizer\Documents\Projects\C#\GoodAssessment\obj\Debug\net6.0\GoodAssessment.AssemblyInfo.cs
+C:\Users\Ebeneizer\Documents\Projects\C#\GoodAssessment\obj\Debug\net6.0\GoodAssessment.ImplicitNamespaceImports.cs
+C:\Users\Ebeneizer\Documents\Projects\C#\GoodAssessment\obj\Debug\net6.0\GoodAssessment.csproj.CoreCompileInputs.cache
+C:\Users\Ebeneizer\Documents\Projects\C#\GoodAssessment\obj\Debug\net6.0\GoodAssessment.dll
+C:\Users\Ebeneizer\Documents\Projects\C#\GoodAssessment\obj\Debug\net6.0\ref\GoodAssessment.dll
+C:\Users\Ebeneizer\Documents\Projects\C#\GoodAssessment\obj\Debug\net6.0\GoodAssessment.pdb
+C:\Users\Ebeneizer\Documents\Projects\C#\GoodAssessment\obj\Debug\net6.0\GoodAssessment.genruntimeconfig.cache
